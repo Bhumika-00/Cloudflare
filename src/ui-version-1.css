@@ -1,0 +1,103 @@
+
+.ui-version-1 {
+    background: linear-gradient(to bottom, #4b0082, #000000);
+    color: white;
+    transition: all 0.3s ease;
+  }
+  
+  .ui-version-1 .form-group input,
+  .ui-version-1 .form-group select,
+  .ui-version-1 .form-group textarea {
+    background-color: #6a0dad;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100%;
+  }
+  
+  .ui-version-1 button {
+    background-color: #6a0dad;
+    color: white;
+  }
+  
+  .ui-version-1 button:hover {
+    background-color: #520d8f;
+  }
+  
+ 
+  .ui-version-1 .form-group label {
+    color: #6a0dad; 
+    font-size: 1rem;
+    font-weight: 600;
+  }
+  
+  
+  .ui-version-1 .upload-box label {
+    color: black; 
+    font-size: 1.2rem; 
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+ 
+  .ui-version-1 .upload-box {
+    background-color: rgba(243, 243, 243, 0.8); 
+    padding: 30px;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .ui-version-1 .upload-box input {
+    display: none;
+  }
+  
+  /* Textbox and button styles */
+  .ui-version-1 .form-group input,
+  .ui-version-1 .form-group select,
+  .ui-version-1 .form-group textarea {
+    background-color: #6a0dad;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100%;
+  }
+  
+  .ui-version-1 .form-group textarea {
+    height: 120px; 
+  }
+  
+ 
+  .ui-version-1 .form-group textarea {
+    height: 120px;
+    background-color: #6a0dad;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+ 
+  .ui-version-1 .form-group label[for="text-to-print"] {
+    color: #6a0dad; 
+    font-size: 1rem;
+    font-weight: 600;
+  }
+  
+  
+  .ui-version-1 .form-group button {
+    background-color: #6a0dad;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    cursor: pointer;
+  }
+  
+  .ui-version-1 .form-group button:hover {
+    background-color: #520d8f;
+  }
+  

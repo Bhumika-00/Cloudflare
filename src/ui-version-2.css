@@ -1,0 +1,25 @@
+
+.ui-version-2 {
+    background: linear-gradient(to bottom, #ff69b4, #ffffff);
+    color: black;
+    transition: all 0.3s ease;
+  }
+  
+  .ui-version-2 .form-group input,
+  .ui-version-2 .form-group select,
+  .ui-version-2 .form-group textarea {
+    background-color: #ff69b4;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .ui-version-2 button {
+    background-color: #ff69b4;
+  }
+  
+  .ui-version-2 button:hover {
+    background-color: #ff3385;
+  }
+  
